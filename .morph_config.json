@@ -1,0 +1,15 @@
+{
+  "prompt_dir": "prompts",
+  "history_file": ".morph_history",
+  "log_file": ".morph.log",
+  "todo_file": ".todos.json",
+  "output_dir": "outputs",
+  "workspace_dir": "workspace",
+  "default_model": "ZhipuAI/GLM-4.5",
+  "auto_save_workspace": true,
+  "prompt_templates": {
+    "coding": "coding_system.txt",
+    "general": "prompt.txt"
+  },
+  "session_start": 1754425006.708472
+}
